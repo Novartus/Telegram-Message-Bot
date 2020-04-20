@@ -16,7 +16,7 @@ They can do anything – teach, play, search, broadcast, remind, connect, integr
 - Bot Name : Replace the sample bot name with your bot name.
 
 ## Features:
-- This Bot Helps the Telegram Channel admin to convey the message withour revealing their identity.
+- This Bot Helps the Telegram Channel admin to convey the message without revealing their identity.
 - Database: With the help of MongoDB Cloud Atlas. Now admin can store the database in the cloud.
 - Security: It provides exculsive rights to admin to delete Database from a single Message. And if unauthorized user tries to fire the command then incident will be directly reported to the admin with its user details.
 
